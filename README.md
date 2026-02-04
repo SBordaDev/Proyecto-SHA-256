@@ -2,8 +2,10 @@
 Proyecto en Java que realiza búsqueda de contraseñas mediante fuerza bruta
 comparando hashes SHA-256 contra una lista objetivo.
 
+Para ver las evidencias de ejecucion ingrese a la [WIKI](https://github.com/SBordaDev/Proyecto-SHA-256/wiki) de este repositorio
+
 ## Requisitos
-* Java (LTS 25.0.2)
+* Java (LTS 25.0.2) **_MUY IMPORTANTE O EL CODIGO NO VA A CORRER (actualizar su version actual de java si es necesario)_**
 * Terminal
 
 ## Como correr el codigo
