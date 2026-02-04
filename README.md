@@ -9,7 +9,18 @@ Para ver las evidencias de ejecucion ingrese a la [WIKI](https://github.com/SBor
 * Terminal
 
 ## Como correr el codigo
-Primero descomprima el archivo .zip en donde usted prefiera, asegurese de que contiene un archivo .jar 
+Asegurese de tener en su equipo la version LTS de java con el siguiente comando
+```
+java --version
+```
+Deberia de ver algo como:
+```
+java 25.0.2 2026-01-20 LTS
+```
+Si ve una version menor por favor actualice el JDK.
+
+
+Después de haber hecho la verificación descomprima el archivo JavaPOO.zip en donde usted prefiera, asegurese de que contiene un archivo .jar 
 
 Para correr el codigo es importante que abra la terminal y se ubique en el path de la carpeta **DESCOMPRIMIDA**, deberia de ver algo como
 _C:\User\...\JAVAPOO_
